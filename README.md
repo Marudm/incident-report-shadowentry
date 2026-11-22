@@ -6,7 +6,7 @@
 
 ## 📋 Descripción / Description
 
-**ES:** Análisis forense completo de un incidente de seguridad real simulado. 
+**ES:** Análisis forense completo de un incidente de seguridad simulado. 
 El servidor de producción **server01** de NovaTech SRL sufrió un ataque de 
 fuerza bruta SSH que resultó en acceso no autorizado, escalada de privilegios 
 y exfiltración de datos confidenciales.
